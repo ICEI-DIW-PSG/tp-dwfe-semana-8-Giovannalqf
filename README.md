@@ -4,13 +4,11 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Giovanna Luisa Quintão de Freitas
+- Matricula: 923826
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
-
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
-
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+<<  <img width="1919" height="1021" alt="screenshot-1778782150781" src="https://github.com/user-attachments/assets/89cd0a47-710b-480e-a691-4279a58b6973" />
+<img width="1919" height="1018" alt="screenshot-1778782121141" src="https://github.com/user-attachments/assets/122ffd31-0724-47ed-a728-c69e659909fb" />
+>>
